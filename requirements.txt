@@ -1,0 +1,20 @@
+# General dependencies
+pandas
+numpy==2.2.6
+# Note: fastai may require a specific older numpy depending on the environment.
+# Setting to a newer version that should be compatible with modern Python and
+# many fastai installations, but be ready to downgrade if fastai throws errors.
+
+# Google Gemini API
+google-genai
+
+# Video processing
+opencv-python-headless
+
+# AI models
+ultralytics
+fastai
+
+# Dashboard and CLI
+streamlit
+typer

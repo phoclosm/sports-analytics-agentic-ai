@@ -1,0 +1,12 @@
+{
+  "video_path": "C:/wierdapproach/vid6.mp4",
+  "identified_sport": "tennis",
+  "sport_confidence": {
+    "basketball": 0.023796404241521903,
+    "football": 0.023361461508955343,
+    "tennis": 0.9528421441713969
+  },
+  "num_frames_analyzed": 15,
+  "total_detections": 0,
+  "sport_name": "Tennis"
+}
