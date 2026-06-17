@@ -18,3 +18,5 @@ A multimodal sports analytics platform that combines Computer Vision, Agentic AI
 
 ## Tech Stack
 Python, PyTorch, OpenCV, ResNet34, YOLOv8, Scikit-Learn, PCA, K-Means, Streamlit
+
+<img width="326" height="590" alt="image" src="https://github.com/user-attachments/assets/a34b97ce-1e73-4baa-83da-6a8d8f7cdbc6" />
